@@ -7,3 +7,5 @@ Larned
 > git commit
 > git rm
 > git status
+> git diff
+> git diff2
