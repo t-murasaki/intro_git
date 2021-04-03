@@ -6,4 +6,4 @@ Larned
 > git add
 > git commit
 > git rm
-m
+> git status
