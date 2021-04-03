@@ -1,2 +1,9 @@
 git test
 Change File.
+
+
+Larned
+> git add
+> git commit
+> git rm
+m
